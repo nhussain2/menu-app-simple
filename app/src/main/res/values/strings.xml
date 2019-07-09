@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Xanders Menu</string>
+
+    <string-array name="items">
+        <item>Mews Mac n Cheese</item>
+        <item>Xanders Full Monty</item>
+        <item>Chatterbox Moroccan Chicken</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$3.99</item>
+        <item>$5.99</item>
+        <item>$6.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>4 cheeses, best comfort food on the menu</item>
+        <item>A hearty breakfast and personal classic</item>
+        <item>Moroccan Chicken can never get old</item>
+    </string-array>
+
+</resources>
